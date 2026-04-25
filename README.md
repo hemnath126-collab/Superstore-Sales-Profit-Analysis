@@ -76,8 +76,4 @@ The business shows strong sales performance but weak profitability. Optimizing p
 * Python Notebook
 * Project Report (PDF/Word)
 
----
 
-## 🚀 Outcome
-
-This project demonstrates strong analytical skills, SQL proficiency, and the ability to derive business insights from data.
